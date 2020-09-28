@@ -1,0 +1,11 @@
+body{
+  background-color: blanchedalmond;
+}
+
+.test{
+  flex-direction: column;
+}
+
+.move{
+  align-self: flex-end;
+}
